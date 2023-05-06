@@ -1,0 +1,40 @@
+ER01
+Admiralty
+1160
+80
+ER02
+Exhibition Center
+3140
+110
+ER03
+Hung Hom
+2400
+60
+ER04
+Mong Kok East
+1770
+90
+ER05
+Kowloon Tong
+4000
+120
+ER06
+Tai Wai
+1350
+80
+ER07
+Sha Tin
+1890
+100
+ER08
+Fo Tan
+2590
+80
+ER09
+University
+6300
+110
+ER10
+Tai Po Market
+-1
+0
